@@ -1,6 +1,23 @@
-# ReactJs - Photowall
-A photo manager app with comment feature made with React.Js.
+# 🖥️ Photowall
 
-This project was made during the "The Complete React Js & Redux Course - Build Modern Web Apps" course on Udemy.
+<h1 align="center">
+  <img src=".github/logo.png" width="200px" />
+</h1>
 
-In this project I've used HTML, CSS, JavaScript and React.js.
+## 🔎️ Description
+A photo manager app with comment feature made with React.js.
+
+This project was made during the <a href="https://www.udemy.com/course/the-complete-react-js-redux-course-build-modern-web-apps/">The Complete React Js & Redux Course - Build Modern Web Apps</a> course on Udemy.
+
+## 🚀️ Technologies
+
+- HTML
+- CSS
+- JavaScript
+- React.js
+ 
+---
+
+Thank you and good coding 😎️
+
+Made by **<a href="https://paulophlp.github.io/portfolio/" target="__blank">Paulo Lima 🤓️</a>**
